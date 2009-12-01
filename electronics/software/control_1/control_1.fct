@@ -1,0 +1,12 @@
+main DSTACK_USAGE:50 DSTACK_LEVEL:50 FILE:"control_1.c" LINE:957
+usart_buf_poll DSTACK_USAGE:0 DSTACK_LEVEL:50 FILE:"control_1.c" LINE:671
+get_val DSTACK_USAGE:8 DSTACK_LEVEL:58 FILE:"control_1.c" LINE:640
+printf DSTACK_USAGE:6 DSTACK_LEVEL:64 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:1340
+_print DSTACK_USAGE:25 DSTACK_LEVEL:89 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:564
+_put DSTACK_USAGE:7 DSTACK_LEVEL:96 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:234
+putchar DSTACK_USAGE:1 DSTACK_LEVEL:97 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:169
+ext_int1_isr DSTACK_USAGE:12 DSTACK_LEVEL:109 FILE:"control_1.c" LINE:864
+printf DSTACK_USAGE:6 DSTACK_LEVEL:115 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:1340
+_print DSTACK_USAGE:25 DSTACK_LEVEL:140 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:564
+_put DSTACK_USAGE:7 DSTACK_LEVEL:147 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:234
+putchar DSTACK_USAGE:1 DSTACK_LEVEL:148 FILE:"C:\Program Files\cvavr\lib\stdio.lib" LINE:169

@@ -1,0 +1,187 @@
+.bold_button{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: Black;
+	font-weight: bold;
+	cursor: pointer;
+}
+.det_data, .det_actual_price_data,.det_buy_now_data{
+	padding-left: 10px; 	
+	margin: 0px;
+}
+.det_watch{
+	padding: 10px 0px 10px 10px; 
+}
+.det_user_info{
+	width: 94%;
+}
+.det_recommend{
+	float: left;
+	width: 50%;
+	text-align: right;
+	margin: 17px 0px 10px 0px; 	
+	height: 95px;   
+}
+.det_note{
+	float: left;
+	text-align: left;
+	width: 49%;
+	margin: 15px 0px 10px 0px; 	
+	height: 99px;   
+}
+.det_note_f{
+	margin: 2px 0px 0px 5%; 	
+	padding: 0px;
+}
+
+
+.det_recommend_f{
+	margin: 35px 5% 0px 0px; 	
+}
+.det_note_vlink{
+	float: left;	
+	width: 1px;
+	margin: 17px 0px 10px 0px; 	
+	background-color: #D6DAD9;
+	height: 95px;			
+	font-size: 1px;
+}
+#det_nxt{
+	float: left;
+	width: 100%;	
+}
+.det_nxt_ico{
+	width: 1%;	
+}
+.det_nxt_ico{
+	border-left: solid 1px #66999A; 
+	height: auto; 
+	padding-top: 5px; 
+	padding-bottom: 5px; 
+	border-top: solid 1px #66999A; 
+	text-align: left; 
+}
+.det_nxt_data{
+	border-right: solid 1px #66999A; 
+	border-top: solid 1px #66999A; 
+	height: auto; 
+	text-align: left; 
+	vertical-align: top; 
+	padding-top: 5px;
+}
+.det_nxt_link{
+	border-right: solid 1px #66999A; 
+	font-size: 11px; 
+	text-align: right; 
+	vertical-align: bottom; 
+	padding-bottom: 5px;	
+}
+.det_upo_ar{
+	display: block;
+	text-align: center;	
+	width: 100%;	
+}
+.det_upo_txt{
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 870px;
+	text-align: left;
+}
+.det_upo_uni, .det_upo_c2, .det_upo_c1970, .det_upo_c813{
+	width: 870px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 114px;
+	background-position: center;		 
+	background-repeat: no-repeat;	
+}
+.det_upo_c2{
+	background-image: url(img_detail/sberatelstvi/upo.gif);
+}
+.det_upo_c1970{
+	background-image: url(img_detail/deti/upo.gif);  
+}
+.det_upo_c813{
+	background-image: url(img_detail/elektronika/upo.gif);  
+}
+.det_upo_uni{
+	background-image: url(img_detail/uni/upo.gif);
+}
+
+.det_u_mez{
+	float: left;	
+	width: 135px;
+	height: 114px;
+}
+.det_u_data1, .det_u_data2, .det_u_data3{
+	float: left;
+	height: 104px;
+	text-align: left;
+}
+.det_u_data1{
+	width: 150px;
+}
+.det_u_data2{
+	width: 170px;
+}
+.det_u_data3{
+	width: 140px;
+}
+
+/*------------------------------------------------*/
+.c2_det_h2,.c1970_det_h2,.c813_det_h2, .uni_det_h2{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+.c2_dt_p,.c1970_dt_p, .uni_dt_p{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.c2_det_h2,.c1970_det_h2,.c813_det_h2, .uni_det_h2{
+	color: #777B02;
+	font-size: 14px;
+	margin: 20px 0px 0px 0px;
+	padding: 0px 0px 2px 0px;  
+}
+.c2_det_h2 a, .c2_det_h2 a:hover  {
+	color: #777B02;	
+}	
+.c1970_det_h2 a, .c1970_det_h2 a:hover  {
+	color: #0170A7;
+}
+.c813_det_h2 a, .c813_det_h2 a:hover  {
+	color: #323232;
+}
+.uni_det_h2 a, .uni_det_h2 a:hover{
+	color: #292D30;	
+}
+.c1970_dt_p{
+	color: #FF6602;	
+}
+.c2_dt_p, .c1970_dt_p, .c813_dt_p, .uni_dt_p{
+	font-size: 11px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	line-height: 18px;
+}
+.c2_dt_p a {
+	color: #660014;
+}
+.c1970_dt_p a{
+	color: #FF6602;	
+}
+.c813_dt_p a{
+	color: #CC0001; 
+}
+.uni_dt_p a{
+	color: #3E4055;	
+}
+
+.d_nl{
+	color: Red;   
+	font-size: 16px;
+}
+.row_bn{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #F2D8FE;     
+}

@@ -1,0 +1,88 @@
+.paticka{
+	float: left;
+	border-top: solid 1px #8EA9BF;	
+	margin-top: 10px;
+	height: 100px;
+	width: 860px;
+	background-image: url(images/bg_paticka.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	text-align: center;
+}
+.paticka_txt{
+	float: left;
+	text-align: left;		
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 17px;	
+	margin: 5px 0px 0px 10px; 		
+}
+.paticka_top{
+	float: right;
+	margin: 7px 0px 0px 0px; 
+	font-family:	Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: right;	
+}
+.f_ar_ad{
+	display: block;		
+	padding: 0px 0px 0px 0px; 	
+	margin: 0px auto 0px auto; 	
+	width: 722px;
+	height: auto;
+	text-align: left;
+	color: #009D00;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+.f_ar{
+	clear: both;
+	display: block;	
+	width: 720px;
+	text-align: center; 
+	margin: 0px auto 0px auto; 
+	border: solid 1px #DADDE0; 
+	height: 94px;
+
+}
+.f_a_ar{
+	width: 179px;
+	float: left;
+	height: 94px;
+	text-align: left;
+}
+.f_ic{
+	margin: 5px 0px 0px 20px; 	
+	height: 30px;
+	overflow: hidden;
+}
+.f_txt{
+	height: 33px;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 0px 0px 20px;  
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 15px;
+}
+.f_link{
+	margin: 0px 0px 0px 0px; 	
+	padding: 0;
+	height: 21px;
+	background-color: #F5F5F5;
+}
+.f_link_o a{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 20px;  
+	line-height: 17px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #EC5D00;
+}
+.f_a_c{
+	float: left;	
+	font-size: 1px;
+	height: 92px;
+	width: 1px;
+	background-image: url(images/f_ar_c.gif);
+	background-repeat: no-repeat;	
+}

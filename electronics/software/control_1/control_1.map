@@ -1,0 +1,32 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+rx_buffer                                                         0160h      100
+dev_val                                                           01C4h        2
+index_st                                                          01C6h        1
+ctr_last                                                          01C7h        2
+timer0_int_cnt                                                    01C9h        1
+timer0_pause_cnt                                                  01CAh        1
+p                                                                 01CBh       49
+cur_move                                                          01FCh        1
+_seed                                                             01FDh        4
+p                                                                 0201h        2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+rx_wr_index                                                       R5           1
+rx_rd_index                                                       R4           1
+rx_counter                                                        R7           1
+rx_buffer_overflow                                                R2.0      1bit
+dev_type                                                          R6           1
+dev_num                                                           R9           1
+motor_cmd                                                         R8           1
+servo_cmd                                                         R11          1
+direction                                                         R10          1
+ret                                                               R13          1
+servo_poz                                                         R12          1
