@@ -1,0 +1,96 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+Первый вариант конструкции
+
+<div style="text-align: center;"><b>Общее описание<br>
+</b>
+<div style="text-align: left;">Монстр задуман как просто машинка для души. Будет управляться как с помощью аппаратуры РУ, так и сам по какой-либо заложенной логической программе. Сначала предполагалось делать полноприводную модель, но невозможность пока изготовить карданные валы(точнее кости) вынудила остановиться на заднем приводе. Кузов выбран от Хаммера, т.к. он один из "квадратных" - его проще реализовать.<br>
+<br>
+</div>
+<b>Задний мост</b><br>
+</div>
+Выполнен в виде трубчатого моста с разрезными полуосями и отдельным приводом на каждую полуось. Подвеска моста зависимая, пружинная на продольных рычагах. Во фланцах полумостов запрессованы подшипники. К торцам фланцев прикрепляются кронштейны электродвигателей. Между собой полумосты соединены уголками для образования единого моста.<br>
+<div id="mvlp" style="text-align: left;"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_9cmqvm5fp_b"></div>
+<br>
+<br>
+<div style="text-align: center;"><b>Передний мост</b><br>
+</div>
+Выполнен без привода, поворотный, со шкворнями. Шкворни закреплены на фланцах моста. Фланцы подготовлены для установки подшипников для переделки моста в приводной. Поворотные кулаки имеют съемные сошки. Подвеска моста зависимая, пружинная на продольных рычагах(повторяет задний мост). В центре моста крепится рулевая сервомашинка.<br>
+<br>
+<div style="text-align: center;"><b>Рама</b><br>
+</div>
+Выполнена в виде пространственной рамы из П-профиля и уголка, соединения винтами. Снизу к ней крепится подрамник для продольных рычагов подвесок. Сама рама будет переделана, вертикальные стойки будут немного наклонены.<br>
+<div id="s6b4" style="text-align: left;"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_6vrg8tng9_b"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_8fckjx3hg_b"></div>
+<br>
+<br>
+<div style="text-align: center;"><b>Двигатель</b><br>
+</div>
+На заднем мосту установлено по одному электродвигателю на колесо, что обеспечит своеобразную блокировку дифференциала. Двигатель Пит 14В, 5500об/мин. Вынут из старых 5-х дисководов.<br>
+<div id="cwmk" style="text-align: left;"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_7dzkhsngd_b"></div>
+<br>
+<br>
+<div style="text-align: center;"><b>Трансмиссия</b><br>
+</div>
+Простейший редуктор из двух шестерен, передаточное число 1/3,76. Шестерни взяты от старых больших плоттеров.<br>
+<div id="eyqc" style="text-align: left;"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_10fhcrvbt6_b"></div>
+<br>
+<br>
+<div style="text-align: center;"><b>Кузов</b><br>
+</div>
+Изготавливается из стекловолокна по следующей технологии. Сначала делается матрица из пенопласта, затем обклеивается стеклотканью пропитанной эпоксидной смолой. Далее заготовка шлифуется, шпатлюется, вырезаются окна, снова шлифуется, окрашивается, армируется изнутри.<br>
+<br>
+<div style="text-align: center;"><b>Электроника</b><br>
+</div>
+Управление электродвигателями осуществляется с помощью микросхемы L293 и микроконтроллера.<br>
+Схема включения: 
+<div id="gjf:" style="text-align: left;"><img style="width: 200px; height: 164px;" src="File?id=dgg5rjtx_5czz2k7c9_b"><br>
+Направление вращения задается уровнями на входах А1 и А2, скорость вращения - на входе EN(ШИМ).<br>
+<br>
+<div style="text-align: center;"><b>Рулевая сервомашинка<br>
+</b>
+<div style="text-align: center;">
+<div style="text-align: left;">Идея такая. Так как у меня элементы рулевого управления тяжеловаты, то обычная дешевая серва тут не поможет. Почему бы не попробовать взять от сервы электронную начинку с двигателем и шестернями и добавив в редуктор еще одну ступень собрать всё в новом корпусе.<br>
+</div>
+<div style="text-align: left;">Вот фото начинки сервы с форума roboforum.ru:<br>
+</div>
+<div id="f3v3" style="text-align: left;"><img style="width: 320px; height: 268px;" src="File?id=dgg5rjtx_14dxz4gpg5_b"><img style="width: 320px; height: 213.333px;" src="File?id=dgg5rjtx_15dcf4m5cp_b"><br>
+<br>
+</div>
+<b>Колеса</b><br>
+</div>
+</div>
+</div>
+Протектор выполнен в виде резиновой полосы с рельефным рисунком склеенной в кольцо. Наполнение сделано из поролона. Всё склеено клеем 88 и резиновым. Диск из пластиковой трубки и диска из хоккейной шайбы. В диск насверлены отверстия для облегчения конструкции.<br>
+<div id="yyti" style="text-align: left;"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_11hkrkznhn_b"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_13fpxs9cdk_b"><img style="width: 320px; height: 240px;" src="File?id=dgg5rjtx_12cnrgmhc2_b"></div>
+<br>
+<br>
+<div style="text-align: center;"><b>Ссылки<br>
+</b>
+<div style="text-align: left;">
+<ol><li>http://www.samodelkin.komi.ru/articles/kuzov.html</li>
+<li>http://www.rcdesign.ru</li>
+<li>http://www.rc4wdstore.com</li>
+<li>http://www.chipmaker.ru</li>
+<li>http://www.modelsworld.ru</li>
+<li>http://www.scale4x4rc.org</li>
+<li>http://www.rcgroups.com</li>
+<li>http://www.rcuniverse.com</li>
+<li>http://www.modelltruck.net</li>
+<li>http://www.roboforum.ru<br>
+</li>
+</ol>
+</div>
+</div>
+<br>
