@@ -1,0 +1,523 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+<head>
+<title>三菱半導体・デバイス</title>
+<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta name="keyword" content="自動車,通信,ネットワーク,家電製品,回路基盤,情報記録,パワーデバイス,光デバイス,高周波デバイス,センサ,移動通信,三菱半導体・デバイス">
+<meta name="description" content="三菱電機は半導体・デバイスのNEXTを創りつづけています">
+<link rel="stylesheet" type="text/css" href="../shared/css/import.css" media="all" />
+<script type="text/javascript" src="../shared/js/chips_base.js"></script>
+<script language=javascript src="css/css.js"></script>
+<script language="JavaScript1.2" src="css/fw_menu.js"></script>
+<script language=javascript>
+<!--
+var dName="./";setDir();
+
+function fwLoadMenus() {
+  if (window.fw_m12) return;
+    window.fw_m12 = new Menu("root",113,17,"Osaka, MS UI Gothic",10,"#000000","#ffffff","#e5e5e5","#4386ff");
+  fw_m12.addMenuItem("光デバイス情報","location='/Japan/common/cfm/eDataSheets.cfm?FOLDER=/product/opt'");
+  fw_m12.addMenuItem("高周波デバイス情報","location='/Japan/common/cfm/eDataSheets.cfm?FOLDER=/product/hf'");
+  fw_m12.addMenuItem("パワーデバイス情報","location='/Japan/common/cfm/eDataSheets.cfm?FOLDER=/product/power'");
+  fw_m12.hideOnMouseOut=true;
+  window.fw_m13 = new Menu("root",113,17,"Osaka, MS UI Gothic",10,"#000000","#ffffff","#e5e5e5","#4386ff");
+  fw_m13.addMenuItem("光デバイス情報","location='/Japan/common/cfm/eLineUp.cfm?FOLDER=/product/opt'");
+  fw_m13.addMenuItem("高周波デバイス情報","location='/Japan/common/cfm/eLineUp.cfm?FOLDER=/product/hf'");
+  fw_m13.addMenuItem("パワーデバイス情報","location='/Japan/common/cfm/eLineUp.cfm?FOLDER=/product/power'");
+  fw_m13.hideOnMouseOut=true;
+  window.fw_m14 = new Menu("root",113,17,"Osaka, MS UI Gothic",10,"#000000","#ffffff","#e5e5e5","#4386ff");
+  fw_m14.addMenuItem("光デバイス情報","location='note/optical.html'");
+  fw_m14.addMenuItem("高周波デバイス情報","location='note/hf.html'");
+  fw_m14.addMenuItem("パワーデバイス情報","location='note/power.html'");
+  fw_m14.hideOnMouseOut=true;
+
+  fw_m14.writeMenus();
+} // fwLoadMenus()
+
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {	color: #333333;
+	font-weight: bold;
+}
+-->
+</style>
+<noscript>
+<link rel="stylesheet" type="text/css" href="css/mac_ie.css">
+</noscript>
+</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script language="JavaScript1.2">
+<!--
+fwLoadMenus();
+//-->
+</script>
+
+<!-- Mitsubishi Electric HEADER 760pix -->
+<div id="global_header" class="w760_left">
+<div class="container clearfix">
+<div id="site_id">
+<p><a href="http://www.mitsubishielectric.co.jp/"><img src="../shared/img/header/logo_mitsubishi_left.gif" alt="MITSUBISHI Changes for the Better" width="157" height="55" border="0" /></a></p>
+</div>
+<div class="function_nav">
+<p class="head"><img src="../shared/img/header/name_mitsubishi.gif" alt="三菱電機" width="62" height="16" border="0" /></p>
+<ul>
+<li><a href="map/index.html"><img src="../shared/img/header/function_btn_sitemap_chips.gif" alt="サイトマップ　のページへ" width="67" height="15" border="0" /></a></li>
+</ul>
+</div>
+<div class="dynamic_nav">
+<form action="http://www.mitsubishichips.com/cgi-bin/Japan/namazu.cgi?" method="get" name="seek" id="seek" target="search">
+<fieldset>
+<legend></legend>
+<ul>
+<li class="q"><input name="query" id="query" type="text" value="サイト内検索" /></li>
+<li class="btn"><input name="submit0" type="submit" id="submit0" value="検索" /></li>
+</ul>
+<div class="dynamic_nav_bottom">
+<div><hr /></div>
+<p><a href="search/index.html" target="search"><img src="../shared/img/header/dynamic_btn_refer.gif" alt="より高度な検索" name="search" width="79" height="12" border="0"></a></p>
+</div>
+</fieldset>
+<input type="hidden" name="max" value="10" />
+<input type="hidden" name="result" value="normal" />
+<input type="hidden" name="sort" value="score" />
+<input type="hidden" name="reference" value="off" />
+<input type="hidden" name="subquery" value="" />
+</form>
+</div>
+</div>
+</div>
+<!-- /Mitsubishi Electric HEADER 760pix -->
+<!-- グローバルナビ -->
+<div id="global_nav" class="w760_left">
+<div class="container">
+<ul class="clearfix">
+<li><a href="index.html"><img src="images/nav01j.gif" alt="半導体・デバイス トップ　のページへ" width="158" height="27" border="0" class="rollover" /></a></li>
+<li><a href="products/optical/index.html"><img src="images/nav02j.gif" alt="光デバイス　のページへ" width="87" height="27" border="0" class="rollover" /></a></li>
+<li><a href="products/hf/index.html"><img src="images/nav03j.gif" alt="高周波デバイス　のページへ" width="111" height="27" border="0" class="rollover" /></a></li>
+<li><a href="products/power/index.html"><img src="images/nav04j.gif" alt="パワーデバイス　のページへ" width="110" height="27" border="0" class="rollover" /></a></li>
+<li><a href="kiban/index.html"><img src="images/nav05j.gif" alt="ビルドアップ基板　のページへ" width="123" height="27" border="0" class="rollover" /></a></li>
+<li><a href="http://www.mitsubishielectric.co.jp/service/tft_tech/" target="_blank"><img src="images/nav06j.gif" alt="TFT液晶モジュール　のページへ" width="134" height="27" border="0" class="rollover" /></a></li>
+</ul>
+</div>
+</div>
+<!-- /グローバルナビ -->
+<div>
+<!--TITLE START -->
+<table width="754" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><script language=javascript1.1>
+<!--
+var MM_contentVersion = 6;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var MM_PluginVersion = words[i]; 
+	    }
+	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+   && (navigator.appVersion.indexOf("Win") != -1)) {
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+	document.write('</SCR' + 'IPT\> \n');
+}
+if ( MM_FlashCanPlay ) {
+	document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
+	document.write(' width="755" height="143">');
+	document.write(' <param name=movie value="image/top.swf"> <param name=menu value=false> <param name=quality value=high> <param name=bgcolor value=#ffffff>  '); 
+	document.write(' <embed src="image/top.swf" menu=false quality=high bgcolor=#ffffff  ');
+	document.write(' swliveconnect=false width="755" height="143"');
+	document.write(' type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">');
+	document.write(' </embed>');
+	document.write(' </object>');
+} else{
+	document.write('<table width="754" border="0" cellspacing="0" cellpadding="0"><tr>');
+	document.write('<td><img src="image/top/main/main1.jpg" alt="三菱半導体" width="175" height="94"></td>');
+	document.write('<td rowspan="2" valign="top"><img src="image/top/main/main2.jpg" alt="三菱電機は半導体の「NEXT」を創りつづけています。" width="580" height="144" border="0" usemap="#Map"></td></tr>');
+	document.write('<tr><td><table width="175" border="0" cellspacing="0" cellpadding="0">');
+	document.write('<form name=seek0 method=GET action="/cgi-bin/Japan/namazu.cgi?" target="search">');
+	document.write('<tr><td colspan="3"><img src="image/1pix.gif" width="8" height="8"></td></tr>');
+	document.write('<tr><td><img src="image/1pix.gif" width="10" height="23"></td><td valign="top">');
+	document.write('<input name="query" type="text" style="width:123px;height:17px;border-style:solid;border-width:1px;border-color:#D1D1D1" ');
+	document.write('value="" size="13" maxlength="2047" />');
+	document.write('<td valign="top"><a href="javascript:seek0.submit();">');
+	document.write('<img src="image/top/main/btn_search.gif" alt="検索" width="30" height="17" hspace="5" vspace="1" border="0"></a>');
+	document.write('<input type="hidden" name="max" value="10">');
+	document.write('<input type="hidden" name="result" value="normal">');
+	document.write('<input type="hidden" name="sort" value="score">');
+	document.write('<input type="hidden" name="reference" value="off">');
+	document.write('<input type="hidden" name="subquery" value="">');
+	document.write('</td></tr></form>');
+	document.write('<tr><td><img src="image/1pix.gif" width="10" height="10"></td>');
+	document.write('<td colspan="2"><a href="search/index.html" target="search">');
+	document.write('<img src="image/top/main/btn_refer.gif" alt="より高度な検索" name="search" width="80" height="10" border="0"></a></td></tr>');
+	document.write('<tr><td colspan="3"><img src="image/1pix.gif" width="8" height="8"></td></tr>');
+	document.write('<tr><td colspan="3" bgcolor="#E5E5E5"><img src="image/1pix.gif" width="1" height="1"></td></tr></table>');
+	document.write('</td></tr></table>');
+}
+//-->
+</script>
+<noscript>
+<table width="754" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="image/top/main/main1.jpg" alt="三菱半導体" width="175" height="94"></td>
+<td rowspan="2" valign="top"><img src="image/top/main/main2.jpg" alt="三菱電機は半導体の「NEXT」を創りつづけています。" width="580" height="144" border="0" usemap="#Map"></td>
+</tr>
+<tr>
+<td><table width="175" border="0" cellspacing="0" cellpadding="0">
+<form name="seek0" method="GET" action="http://www.mitsubishichips.com/cgi-bin/Japan/namazu.cgi?" target="search">
+<tr>
+<td colspan="3"><img src="image/1pix.gif" width="8" height="8"></td>
+</tr>
+<tr>
+<td><img src="image/1pix.gif" width="10" height="23"></td>
+<td valign="top"><input name="query" type="text" style="width:123px;height:17px;border-style:solid;border-width:1px;border-color:#D1D1D1" onMouseOver="this.style.backgroundColor='#efefec';this.focus();" onMouseOut="this.style.backgroundColor='#ffffff';" value="" size="13" maxlength="2047" />
+</td>
+<td valign="top"><input type="submit" value="" alt="検索" style="width:30px; height:17px; background:url(image/top/main/btn_search.gif) no-repeat; border:none; cursor:pointer;" />
+<input type="hidden" name="max" value="10">
+<input type="hidden" name="result" value="normal">
+<input type="hidden" name="sort" value="score">
+<input type="hidden" name="reference" value="off">
+<input type="hidden" name="subquery" value="">
+</td>
+</tr>
+</form>
+<tr>
+<td><img src="image/1pix.gif" width="10" height="10"></td>
+<td colspan="2"><a href="search/index.html" target="search"><img src="image/top/main/btn_refer.gif" alt="より高度な検索" name="search" width="80" height="10" border="0"></a></td>
+</tr>
+<tr>
+<td colspan="3"><img src="image/1pix.gif" width="8" height="8"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#E5E5E5"><img src="image/1pix.gif" width="1" height="1"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+</noscript>
+</td>
+</tr>
+</table>
+<!--TITLE END -->
+<table width="755" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" background="image/top/menu_bg.gif" class="size12"><table width="175" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="2"><img border="0" src="image/top/menu/m01.gif" width="175" height="23" alt="製品情報"></td>
+</tr>
+<tr>
+<td rowspan="5"><img src="image/1pix.gif" width="10" height="95"></td>
+<td><a href="products/optical/index.html"><img src="image/top/menu/m01_01.gif" width="165" height="19" alt="光デバイス製品" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td><a href="products/hf/index.html"><img src="image/top/menu/m01_02.gif" width="165" height="19" alt="高周波デバイス製品" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td><a href="products/power/index.html"><img src="image/top/menu/m01_03.gif" width="165" height="19" alt="パワーデバイス製品" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td><a href="kiban/index.html"><img src="image/top/menu/m01_04.gif" width="165" height="19" alt="ビルドアップ基板" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td><a href="http://www.mitsubishielectric.co.jp/service/tft_tech/" target="_blank"><img src="image/top/menu/m01_05.gif" width="165" height="19" alt="TFT液晶モジュール" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><img src="image/top/menu/m01_06.gif" width="175" height="8"></td>
+</tr>
+<tr>
+<td colspan="2"><a href="#" onMouseOut="FW_startTimeout()" onMouseOver="window.FW_showMenu(window.fw_m12,170,355)"><img src="image/top/menu/m04.gif" alt="データシート更新情報" name="m04" width="175" height="23" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="#" onMouseOut="FW_startTimeout()" onMouseOver="window.FW_showMenu(window.fw_m13,170,378)"><img name="m03" border="0" src="image/top/menu/m03.gif" width="175" height="23" alt="データシート一覧" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="catalogue/index.html"><img border="0" src="image/top/menu/m05.gif" width="175" height="23" alt="カタログダウンロード" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://www3.mitsubishichips.com/dm/bin/u_als_form.pl"><img border="0" src="image/top/menu/m12.gif" width="175" height="23" alt="シミュレーションソフト" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="new_pro/index.html"><img border="0" src="image/top/menu/m06.gif" width="175" height="23" alt="製品ニュース" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="conference/index.html"><img border="0" src="image/top/menu/m02.gif" width="175" height="23" alt="カンファレンスペーパー" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="#" onMouseOut="FW_startTimeout()" onMouseOver="window.FW_showMenu(window.fw_m14,170,493)"><img src="image/top/menu/m10.gif" width="175" height="23" name="m10" border="0" alt="アプリケーションノート" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="reliability/index.html"><img border="0" src="image/top/menu/m07.gif" width="175" height="23" alt="信頼性情報" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="icpackage/index.html"><img src="image/top/menu/m08.gif" alt="パッケージ情報" width="175" height="23" border="0" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="http://www3.mitsubishichips.com/inquire/bin/si_newq_reg_frm.pl?ipn" target="contact"><img border="0" src="image/top/menu/m11.gif" width="175" height="23" alt="お問い合わせ" class="rollover"></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="network/index.html"><img border="0" src="image/top/menu/m13.gif" width="175" height="23" alt="営業拠点" class="rollover"></a></td>
+</tr>
+</table>
+<div style="margin:8px 0 0 8px">
+<a href="http://www3.mitsubishichips.com/dm/html/index_reg.html" target="_blank"><img src="image/top/btn_regist.gif" width="158" height="51" alt="会員登録のご案内" border="0" class="rollover"></a>
+</div>
+<br><br>
+</td>
+<td valign="top" class="size12"><table width="580" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="image/1pix.gif" width="13" height="13"></td>
+<td valign="top"><table width="384" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="image/top/topics.gif" width="59" height="37" alt="Topics"></td>
+<td align="right" valign="bottom" class="size10"><a href="backnumber/topics.html">バックナンバー</a> <img src="image/arrow01.gif" width="5" height="8"><br>
+<img src="image/1pix.gif" width="5" height="7"></td>
+</tr>
+</table>
+<table width="384" border="0" cellpadding="0" cellspacing="0">
+<tr><td valign="top"><a href="http://www.jma.or.jp/TF/top.html" target="_blank"><img src="topicsimage/dengen2009j.gif" width="70" height="47" border="0"></a><br></td><td><img src="image/1pix.gif" width="8" height="8"></td><td width="306" valign="top" class="size10"><strong>第２４回電源システム展に出展！！</strong><br>
+09年4月15日(水)から17日(金)に幕張メッセにて開催される第24回電源システム展に出展します。
+省エネルギー、環境、新エネルギーニーズに応える最新の三菱パワーデバイスをご紹介します。
+</td></tr><tr><td colspan="3"><img src="image/top/bar_02.gif" width="384" height="17"></td></tr><tr><td valign="top"><a href="http://www.foe.jp/" target="_blank"><img src="topicsimage/FOE2009.GIF" width="70" height="47" border="0"></a><br></td><td><img src="image/1pix.gif" width="8" height="8"></td><td width="306" valign="top" class="size10"><strong>第9回ファイバーオプティクスＥＸＰＯに出展！</strong><br>
+'09年1月21日～23日に東京ビックサイトにて開催のＦＯＥ２００９に光デバイス、光モジュール製品を出展いたしました。<a href="http://www.mitsubishichips.com/Japan/events/012109.html" >出展報告はこちらからご覧下さい。</a>
+
+</td></tr><tr><td colspan="3"><img src="image/top/bar_02.gif" width="384" height="17"></td></tr><tr><td valign="top"><a href="http://www.apmc-mwe.org/" target="_blank"><img src="topicsimage/MWE2008.GIF" width="70" height="47" border="0"></a><br></td><td><img src="image/1pix.gif" width="8" height="8"></td><td width="306" valign="top" class="size10"><strong>マイクロウェーブ展2008出展!!</strong><br>
+2008年11月26日(水)から28日(金)まで、パシフィコ横浜にて開催された『マイクロウェーブ展2008』に、W－CDMA用高効率電力増幅器、WiMAX用電力増幅器を展示しました。</td></tr><tr><td colspan="3"><img src="image/top/bar_02.gif" width="384" height="17"></td></tr>
+</table>
+<!-----------  News Release  ------------>
+<table width="384" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="image/top/news.gif" width="131" height="28" alt="News Release"></td>
+<td align="right" valign="bottom" class="size10"><a href="backnumber/news.html">バックナンバー</a> <img src="image/arrow01.gif" width="5" height="8"><br>
+<img src="image/1pix.gif" width="5" height="6"></td>
+</tr>
+</table>
+<table width="384" border="0" cellspacing="1" cellpadding="1">
+<tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2009/03/03 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2009/0303.htm" target="_blank">三菱カラーTFT液晶モジュ－ル「DIAFINE」産業用15.0型発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2009/01/20 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2009/0120.htm" target="_blank">超小型カラープロジェクター用638nm高出力半導体レーザーを発売</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2009/01/15 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2009/0115.htm" target="_blank">三菱カラーTFT液晶モジュ－ル「DIAFINE」産業用10.4型発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2009/01/13 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2009/0113-a.htm" target="_blank">Ka帯プラスチックパッケージ低雑音 GaAs HEMT 発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2008/12/18 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2008/1218.htm" target="_blank">XLMD-MSA準拠の43Gbps光伝送用送信デバイスと受信デバイスを発売</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2008/12/09 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2008/1209-a.htm" target="_blank">衛星デジタルラジオ用 低雑音 GaAs HEMT発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2008/12/04 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2008/1204.htm" target="_blank">業務無線機用7.2V動作高出力MOSFET　発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2008/11/04 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2008/1104-a.htm" target="_blank">UHF帯RFIDリーダライタ装置用高出力増幅器発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2008/10/23 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2008/1023.htm" target="_blank">三菱カラーTFT液晶モジュール「DIAFINE」　産業用12.1型SVGA発売のお知らせ</a></td></tr><tr align="left" valign="top"><td><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td><td class="size10" nowrap>2008/09/30 …</td><td class="size10"><a href="http://www.mitsubishielectric.co.jp/news/2008/0930.htm" target="_blank">三菱カラーTFT液晶モジュール「DIAFINE」　産業用17.0型SXGA発売のお知らせ</a></td></tr>
+</table></td>
+<td width="170" valign="top"><img src="image/1pix.gif" width="12" height="12"><br>
+  <table width="170" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="5"><img src="image/top/corner/cnr_whatsnew.gif" alt="新着情報" width="170" height="18"></td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#003399"><img src="image/1pix.gif" width="1" height="1"></td>
+      <td width="5"><img src="image/1pix.gif" width="5" height="1"></td>
+      <td width="157">
+        <!-----------  新着情報  ------------>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="2"><span class="size10"><img src="image/1pix.gif" alt="" width="5" height="5"></span></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="&rarr;" vspace="3" hspace="2"></td>
+            <td><p><span class="size10">2009/2/6</span><span class="size10"><br>
+              <a href="catalogue/index.html" class="black">光デバイスのカタログを更新しました。</a></span></p></td>
+          </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="2"><span class="size10"><img src="image/1pix.gif" width="5" height="5"></span></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td>
+            <td><span class="size10">2008/10/29<br>
+                <a href="new_pro/index.html" class="black">製品ニュースを更新しました。</a></span></td>
+          </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="2"><span class="size10"><img src="image/1pix.gif" width="5" height="5"></span></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td>
+            <td><span class="size10">2008/10/7<img src="image/1pix.gif" width="1" height="1"><br>
+                  <a href="https://www3.mitsubishichips.com/dm/bin/u_als_form.pl" class="black">パワー損失シミュレータ
+                  Ver.4.02を更新しました。 </a></span></td>
+          </tr>
+        </table>
+        <!-----------  END　新着情報  ------------>
+      </td>
+      <td width="6"><img src="image/1pix.gif" width="5" height="1"></td>
+      <td width="1" bgcolor="#003399"></td>
+    </tr>
+    <tr>
+      <td colspan="5"><img src="image/top/corner/cnr_bottom.gif" width="170" height="9"></td>
+    </tr>
+  </table>
+  <img src="image/1pix.gif" width="8" height="8"><br>
+<table width="170" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3"><img src="image/top/corner/cnr_triplea.gif" alt="Online Magazine Tripl A" width="170" height="18"></td>
+</tr>
+<tr>
+<td bgcolor="#003399"><img src="image/1pix.gif" width="1" height="1"></td>
+<td><table width="168" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFFFFF">
+<tr>
+<td bgcolor="#E6E6E6" align="right"><span class="size10">Oct 2008 No.122</span></td>
+</tr>
+<tr>
+<td align="center"><table width="158" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td valign="top"><img src="image/top/corner/tr_122.gif" width="38" height="38" alt="Trend of Technology"></td>
+<td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→"> <span class="size10">Trend of Technology</span><br>
+<span class="size10"><a href="triple_a/122/trend_tech/index.html">HVICの技術開発と将来展開</a></span></td>
+</tr>
+</table>
+<table width="158" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="38" valign="top"><img src="image/top/corner/es_122.gif" width="38" height="38" alt="Essay"></td>
+<td width="112" valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→"> <span class="size10">Essay</span><br> 
+<span class="size10"><a href="triple_a/122/essay/index.html">電池自動車革命に寄せる期待</a></span></td>
+</tr>
+</table>
+<!-- 
+<table width="158" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td valign="top"><img src="image/top/bar_03.gif" width="154" height="6"></td>
+</tr>
+</table>
+<table width="158" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td valign="top"><span class="size10">[高周波デバイス]</span><br>
+<table width="150" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td>
+<td><span class="size10"><a href="new_pro/no.114/p08_1.html">S帯出力電力増幅モジュール</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+-->
+</td>
+</tr>
+</table></td>
+<td bgcolor="#003399"><img src="image/1pix.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="image/top/corner/cnr_bottom.gif" width="170" height="9"></td>
+</tr>
+</table>
+<img src="image/1pix.gif" width="8" height="8"><br>
+<table width="170" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="5"><img src="image/top/corner/cnr2_top.gif" width="170" height="9"></td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC"><img src="image/1pix.gif" width="1" height="1"></td>
+<td><img src="image/1pix.gif" width="5" height="1"></td>
+<td width="158"><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td>
+<td><span class="size10"><a href="about/renesas.html">ルネサステクノロジへの承継製品について</a></span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="size10"><img src="image/1pix.gif" width="5" height="5"></span></td>
+</tr>
+<tr>
+<td valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"></td>
+<td><span class="size10"><a href="about/dram.html">DRAM事業について</a></span></td>
+</tr>
+<tr>
+</table></td>
+<td><img src="image/1pix.gif" width="5" height="1"></td>
+<td bgcolor="#CCCCCC"><img src="image/1pix.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td colspan="5"><img src="image/top/corner/cnr2_bottom.gif" width="170" height="9"></td>
+</tr>
+</table>
+<table width="170" height="8" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="image/1pix.gif" width="8" height="8"></td>
+</tr>
+</table>
+<table width="170" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="2" rowspan="6"><img src="image/1pix.gif" width="2" height="2"></td>
+<td width="5" rowspan="3" valign="top"><img src="image/arrow01.gif" width="5" height="8" alt="→" vspace="3" hspace="2"><img src="image/1pix.gif" width="3" height="3"><img src="image/1pix.gif" width="5" height="5"></td>
+</tr>
+<tr> </tr>
+<tr>
+<td height="3"><p><span class="size10">当社パワーデバイスの評価・(量産対応)購入にあたっては当社特約店もしくは販売会社から購入願います。再生品の使用は過去の稼働履歴が不明であり正常な作動は保証いたしかねます。</span></p></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<br>
+<table width="580" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td rowspan="3" align="left" valign="top"><img src="image/1pix.gif" width="13" height="2"></td>
+<td class="size10"><a href="http://www.adobe.co.jp/products/acrobat/readstep2.html" target="_blank"><img src="../image/get_adobe_reader.gif" align="right" border="0" alt="Get Adobe Reader"></a><span style="color:#ADADAD">■</span>このホームページ内のカタログおよびデータシートのファイルは、PDF形式となっております。
+PDFをご覧頂くには、Adobe Readerが必要です。</td>
+</tr>
+<tr>
+<td class="size10"><span style="color:#ADADAD">■</span>InternetExplorer4ご利用ユーザーで、PDFファイルをインライン表示できない場合があります。その場合は、アドビシステムズ株式会社のカスタマーサポートページをご参照ください。</td>
+</tr>
+<tr>
+<td class="size10"><span style="color:#ADADAD">■</span>本サイトの表示および動作確認は、Netscape
+6.0、Internet Explorar 5.1以降で行っております。</td>
+</tr>
+</table>
+<br>
+<table border="0" align="right" cellpadding="1" cellspacing="1">
+<tr>
+<td><img src="image/arrow01.gif" width="5" height="8" alt="" vspace="3" hspace="2"></td>
+<td class="size10"><a href="../Global/index.html" class="navi">Global</a></td>
+<td><img src="image/1pix.gif" width="4" height="2" alt=""></td>
+<td><img src="image/arrow01.gif" width="5" height="8" alt="" vspace="3" hspace="2"></td>
+<td class="size10"><a href="../China/index.html" class="navi">China</a></td>
+<td><img src="image/1pix.gif" width="4" height="2" alt=""></td>
+<td><img src="image/arrow01.gif" width="5" height="8" alt="" vspace="3" hspace="2"></td>
+<td class="size10">Japan</td>
+</tr>
+<tr>
+<td colspan="8"><img src="image/1pix.gif" width="1" height="2"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+</div>
+
+<!-- グローバルフッタ -->
+<div id="global_footer" class="w760_left">
+<div class="container clearfix">
+<div class="breadcrumbs">
+<ul class="clearfix">
+<li class="first"><a href="http://www.mitsubishielectric.co.jp/">トップページ</a></li>
+<li><a href="http://www.mitsubishielectric.co.jp/index_b.html">法人のお客様</a></li>
+<li>半導体・デバイス</li>
+</ul>
+</div>
+<div class="direct_nav">
+<ul>
+<li><a href="http://www3.mitsubishichips.com/inquire/bin/si_newq_reg_frm.pl?ipn" target="contact"><img src="../shared/img/footer/function_inquiry.gif" alt="お問い合わせ" width="73" height="22" border="0" /></a></li>
+<li><a href="atten/index.html"><img src="../shared/img/footer/function_about.gif" alt="本サイトの留意点" width="91" height="22" border="0" /></a></li>
+</ul>
+</div>
+<div class="function_nav">
+<ul>
+<li class="first"><a href="http://www.mitsubishielectric.co.jp/copyright.html" target="mesite"><img src="../shared/img/footer/function_copyright.gif" alt="ウェブサイト利用規約" width="110" height="15" border="0" /></a></li>
+<li><a href="http://www.mitsubishielectric.co.jp/privacy/" target="mesite"><img src="../shared/img/footer/function_privacy.gif" alt="個人情報保護について" width="115" height="15" border="0" /></a></li>
+</ul>
+</div>
+<address class="copyright"><img src="http://www.mitsubishielectric.co.jp/shared/img/footer/copyright_2007.gif" alt="Copyright &copy; Mitsubishi Electric Corporation. All Rights Reserved." width="255" height="9" /></address>
+</div>
+</div>
+<!-- /グローバルフッタ -->
+<map name="Map">
+<area shape="rect" coords="456,0,507,20" href="../China/index.html">
+<area shape="rect" coords="390,0,444,20" href="../Global/index.html">
+</map>
+</body>
+</html>
