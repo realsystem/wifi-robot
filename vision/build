@@ -1,1 +1,2 @@
-g++ qcode_lib.cpp qcode_from_image.cpp qcode_from_video.cpp -o qcode -I /usr/local/include/opencv/ -L /usr/local/lib -lm -lcv -lhighgui -lcvaux
+g++ qcode_lib.cpp qcode_from_image.cpp -o qcode_from_image -I /usr/local/include/opencv/ -L /usr/local/lib -lm -lcv -lhighgui -lcvaux
+g++ qcode_lib.cpp qcode_from_video.cpp -o qcode_from_video -I /usr/local/include/opencv/ -L /usr/local/lib -lm -lcv -lhighgui -lcvaux
