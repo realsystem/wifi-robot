@@ -1,1 +1,1 @@
-g++ CvQCodeBeacons.cpp -o qcode -I /usr/local/include/opencv/ -L /usr/local/lib -lm -lcv -lhighgui -lcvaux
+g++ qcode_lib.cpp -o qcode -I /usr/local/include/opencv/ -L /usr/local/lib -lm -lcv -lhighgui -lcvaux
