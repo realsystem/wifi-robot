@@ -1,5 +1,6 @@
 #pragma hdrstop
 #include "qcode_lib.h"
+#include "qcode_std.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 

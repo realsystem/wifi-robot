@@ -3,7 +3,7 @@
 //---------------------------------------------------------------------------
 #include "cv.h"                                  // includes OpenCV definitions
 #include "highgui.h"                             // includes highGUI definitions
- 
+
  struct CvQCodeBeacon {
  
   //????? ????? (0..2^15-1)
