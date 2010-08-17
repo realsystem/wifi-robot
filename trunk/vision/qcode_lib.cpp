@@ -214,7 +214,6 @@ return fbeacon;
           double base_x=x[2]+idx2, base_y=y[2]+idy2;
           v1x=x[1]-x[2]+idx1-idx2, v1y=y[1]-y[2]+idy1-idy2;
           v2x=x[3]-x[2]+idx3-idx2, v2y=y[3]-y[2]+idy3-idy2;
- 
           double vmax=0,vmin=255;
  
             //???????? ??????? ?????? ?????
@@ -327,7 +326,7 @@ return fbeacon;
                 cur->y1=v1y;
                 cur->x2=v2x;
                 cur->y2=v2y;
-                long double size=sqrt(sqr(v1x+v2x)+sqr(v1y+v2y));
+                double size=sqrt(sqr(v1x+v2x)+sqr(v1y+v2y));
  
                 //?????????? ?????????? ????? ???????????? ??????
                 cur->rx=k_front*szDiv2.width/size;
@@ -336,27 +335,36 @@ return fbeacon;
  
                 cur->d=sqrt(sqr(cur->rx)+sqr(cur->ry)+sqr(cur->rz));
                 cur->d=floor(cur->d*100)/100;
-  /*printf("x=%f\n", cur->x);
-  printf("y=%f\n", cur->y);
-  printf("z=%f\n", cur->z);
-  printf("bx=%f\n", cur->bx);
-  printf("by=%f\n", cur->by);
-  printf("rx=%f\n", cur->rx);
-  printf("ry=%f\n", cur->ry);
-  printf("rz=%f\n", cur->rz);
-  printf("x1=%f\n", cur->x1);
-  printf("y1=%f\n", cur->y1);
-  printf("x2=%f\n", cur->x2);
-  printf("y2=%f\n", cur->y2);
-  printf("d=%f\n", cur->d);*/
+  
+  double x__=base_x+(v1x+v2x)/2;
+  double y__=base_y+(v1y+v2y)/2;
+  double rx__=k_front*szDiv2.width/size;
+  double ry__=((x__) - szDiv2.width)*(rx__)/(szDiv2.width*k_side);
+  double rz__=((y__) - szDiv2.height)*(rx__)/(szDiv2.width*k_side);
+  double d__=sqrt(sqr(rx__)+sqr(ry__)+sqr(rz__));
+  d__=floor(d__*100)/100;
+  
+  //printf("v1x=%6.2f\n", v1x);
+  //printf("v1y=%6.2f\n", v1y);
+  //printf("v2x=%6.2f\n", v2x);
+  //printf("v2y=%6.2f\n", v2y);
+  //printf("size=%6.2f\n", size);
+  printf("x=%6.2f\n", x__);
+  printf("y=%6.2f\n", y__);
+  printf("bx=%6.2f\n", base_x);
+  printf("by=%6.2f\n", base_y);
+  printf("rx=%6.2f\n", rx__);
+  printf("ry=%6.2f\n", ry__);
+  printf("rz=%6.2f\n", rz__);
+  printf("d=%6.2f\n", d__);
 		printf("beacon=%d\n", cur->id);
-            for(int d1=K-1; d1>=0; d1--){
+            /*for(int d1=K-1; d1>=0; d1--){
               for(int d2=0; d2<K; d2++)
 		{
 			printf("%d ", (int)res[d1][d2]);
 		}
 		printf("\n");
-		}
+		}*/
               };
             };
  
