@@ -4,7 +4,7 @@
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 
-IplImage* frame =0;
+IplImage* frame;
 
 int main(int argc, char* argv[])
 {
@@ -18,17 +18,18 @@ int main(int argc, char* argv[])
         cvNamedWindow("original",CV_WINDOW_AUTOSIZE);
 
         // get info about the video file
-        CvCapture* capture = cvCreateFileCapture( filename );
+        CvCapture* capture = cvCreateFileCapture(filename);
 
         while(1){
                 // get the next frame
-                frame = cvQueryFrame( capture ); 
-                if( !frame ) {
+                frame = cvQueryFrame( capture );
+		printf("q %i", frame);
+		if( !frame ) {
                         break;
                 }
 
                 // processing...
-
+		mycvGetQCodeBeacons(frame, 5, 0.438, 2.813);
                 // show the frame
                 cvShowImage( "original", frame );
 
